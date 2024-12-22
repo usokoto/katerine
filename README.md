@@ -1,6 +1,6 @@
 Soft for obfuscation/deobfuscation python code
-Contacts:
+||Contacts:
 Telegram: @emo_kilka
 Discord: usokoto
-Софт для шифровки/дешифровки python кода
-Контакты выше
+||Софт для шифровки/дешифровки python кода
+||Контакты выше
